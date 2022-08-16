@@ -7,15 +7,10 @@ It is intended for use with the [Decentraland Atari Arcade Cabinets](https://git
 
 ## Use:
 
-#### Your image:
-
-* Place your input image into the `img` folder.
-* Either rename the image to `input.png`, or edit the `image_path` in `main.py`
-* Images should be 32x32 pixels for best results
-
-#### Generating the code:
-
 * Clone the repo locally.
+* Place your image in the repo folder
+* Either rename your image to `input.png`, or edit the `image_path` in `main.py`
+* Images should be 32x32 pixels for best results
 * Open a terminal with access to pythton
 * Call the script with: `python3 main.py`
 * The results will be printed to `output.ts`. Copy this to the relevant files for the cabinet.

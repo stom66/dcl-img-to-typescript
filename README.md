@@ -19,3 +19,7 @@ It is intended for use with the [Decentraland Atari Arcade Cabinets](https://git
 # Credit
 
 This code was written by stom for the [Inferno Room](https://play.decentraland.org/?position=-60%2C125) cabinets. The credit for the example logo in the repo belongs to [@arnjjoe](https://twitter.com/arnjjoe) and is used with permission.
+
+# License
+
+The code in this addon is licensed under the MIT License. Please see [LICENSE](LICENSE) for details.

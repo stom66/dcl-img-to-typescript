@@ -4,6 +4,7 @@ This script takes an input image and generates a valid TypeScript array of each 
 
 It is intended for use with the [Decentraland Atari Arcade Cabinets](https://github.com/decentraland-scenes/atari-arcade-cabinets) and allows you to create your own custom logo easily from the input image.
 
+![Example image](desc.png)
 
 ## Use:
 
@@ -17,4 +18,4 @@ It is intended for use with the [Decentraland Atari Arcade Cabinets](https://git
 
 # Credit
 
-This code was written by stom for the [Inferno Room](https://play.decentraland.org/?position=-60%2C125) cabinets. The credit for the example logo in the repo belongs to @Arnj-Joe and is used with permission.
+This code was written by stom for the [Inferno Room](https://play.decentraland.org/?position=-60%2C125) cabinets. The credit for the example logo in the repo belongs to [@arnjjoe](https://twitter.com/arnjjoe) and is used with permission.
